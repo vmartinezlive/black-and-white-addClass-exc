@@ -1,0 +1,20 @@
+h1 {
+  color: white;
+}
+
+.jumbotron h1 {
+  opacity: 1.0;
+}
+
+.jumbotron {
+  background-image: url("https://s.abcnews.com/images/Lifestyle/puppy-ht-3-er-170907_4x3_992.jpg");
+  background-size: cover;
+}
+
+.container {
+  text-align: center;
+}
+
+.buttons {
+  text-align: center;
+}
