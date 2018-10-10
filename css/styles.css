@@ -1,18 +1,50 @@
-h1 {
+/* h1 {
   color: white;
+  font-size: 100;
+  font-weight: bold;
+} */
+h2 {
+  text-align: center;
 }
-
 .jumbotron h1 {
   opacity: 1.0;
+  font-size: 100px;
+  color: white;
 }
 
 .jumbotron {
   background-image: url("https://s.abcnews.com/images/Lifestyle/puppy-ht-3-er-170907_4x3_992.jpg");
   background-size: cover;
+  height: 500px;
+  font-size: 100px;
 }
 
-.container {
-  text-align: center;
+#dog.jumbotron {
+  background-image: url("https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg");
+  background-size: cover;
+  height: 500px;
+}
+
+#cat.jumbotron {
+  background-image: url("http://1.citynews-ilpescara.stgy.ovh/~media/original-hi/22253835027473/gatto-4.jpg");
+  background-size: cover;
+  height: 500px;
+}
+
+#rabbit.jumbotron {
+  background-image: url("https://www.walkervillevet.com.au/wp-content/uploads/2018/05/rabbit-eating-carrot.jpg");
+  background-size: cover;
+  height: 500px;
+}
+
+#snake.jumbotron {
+  background-image: url("https://images5.alphacoders.com/369/thumb-1920-369896.jpg");
+  background-size: cover;
+  height: 500px;
+}
+
+.column {
+  width: 300px;
 }
 
 .buttons {
