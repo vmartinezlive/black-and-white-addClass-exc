@@ -50,3 +50,12 @@ h2 {
 .buttons {
   text-align: center;
 }
+
+.dark-background {
+  background-color: black;
+  color: pink;
+}
+
+.light-background {
+  background-color: white;
+}
